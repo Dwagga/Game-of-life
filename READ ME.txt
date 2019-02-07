@@ -1,0 +1,8 @@
+Author: David Mendez Merino
+Date: 07/02/2019
+
+Welcome to my project!
+
+I invite you to read the Documentation.pdf located in the folder called "Documentation".
+
+Enjoy with the game!
